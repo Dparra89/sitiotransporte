@@ -84,8 +84,27 @@ h2{
 
 .testimonios{
     width: 25%;
-    
 }
+
+.bienvenidos p{
+font-size: 20px;
+}
+
+.testimonio{
+    background-color:#cccccc;
+    padding: 16px;
+}
+
+.testimonio .cita{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.testimonio .autor{
+    font-size: 12px;
+}
+
 
 
 /* fin home */
