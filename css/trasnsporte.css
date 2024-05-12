@@ -65,3 +65,25 @@ footer{
     width: 960px;
     margin: 0 auto;
 }
+
+h2{
+    color: #2e64a1;
+    font-weight: 400;
+}
+
+/* inicio home */
+
+.columnas{
+    display: flex;
+}
+
+.bienvenidos{
+    width: 75%;
+}
+
+.testimonios{
+    width: 25%;
+}
+
+
+/* fin home */
